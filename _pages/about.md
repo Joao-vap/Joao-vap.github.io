@@ -39,8 +39,8 @@ Sou bolsista FAPESP de Mestrado do Programa de Pós Graduação em Matemática P
       <a href="/publication/TCC">
         <img src="/images/base/CoulombGas.png" alt="Complex Measure - Balogh et al">
       </a>
-      <a href="/publication/TCC">
-        <img src="/images/base/CoulombGasComplexMeasure.png" alt="Complex Measure - Bleher e Silva">
+      <a href="/publication/CLT-Intransitive-Dice">
+        <img src="/images/base/IntransitiveDice.png" alt="Intransitive Dice">
       </a>
       <a href="files/Occultin.pdf">
         <img src="/images/base/Occultin.png" alt="Relatório - Occultin">
@@ -69,5 +69,7 @@ Sou bolsista FAPESP de Mestrado do Programa de Pós Graduação em Matemática P
       </a>
     </div>
   </div>
-  <img src="/images/me.png" alt="Me" style="width: 100%; margin-top: 16px; align-self: center;">
+  <a href="/cv" style="text-align:center">
+    <img src="/images/me.png" alt="Me" style="width: 100%; margin-top: 16px; align-self: center;">
+  </a>
 </div>

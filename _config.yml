@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "pt-BR"
-title                    : "V. A. P. João"
+title                    : "João V. A. P."
 title_separator          : "-"
 name                     : &name "João V. A. Pimenta"
 description              : &description "Mestrando do Programa de Matemática Pura do Instituto de Ciências Matemáticas e de Computação (ICMC - USP) e Bacharel em Física Computacional pelo Instituto de Física de São Carlos (IFSC - USP). Premiado 'Bernhard Gross' (2022) pelo melhor desempenho acadêmico no curso. Possui interesse em métodos computacionais em física, matématica e suas intersecções. Realizou inciações científicas em múltiplas áreas, como: Métodos de Regressão em dados de alta dimensão (2020-2021), desenvolvimento de interface para pesquisa em ocultações estelares (2021-2022) e, mais recentemente, no estudo da Teoria de Matrizes Aleatórias e assintótica de dinâmica de partículas (2023-atual). Já realizou também estágio como desenvolvedor em uma startup de tecnologia (2022-2023) onde trabalhou com ferramentas computacionais de produção."

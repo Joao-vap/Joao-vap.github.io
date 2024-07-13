@@ -89,7 +89,7 @@ Formação Complementar
 Participação em Eventos
 ======
 
-* Semana Nacional de Iniciação Científica da SBM. MAtrizes Aleatórias e Simulação de Gases de Coulomb. 2024. (Congresso).
+* Semana Nacional de Iniciação Científica da SBM. Matrizes Aleatórias e Simulação de Gases de Coulomb. 2024. (Congresso).
 * Colóquio Brasileiro de Matemática. Dados Intransitivos. 2023. (Congresso).
 * Semana Integrada da Física de São Carlos. Dados Intransitivos. 2023. (Simpósio).
 * Semana Integrada da Física de São Carlos. SOLAR SYSTEM - A WEB INTERFACE BASED ON SORA. 2022. (Seminário).

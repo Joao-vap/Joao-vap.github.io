@@ -50,7 +50,7 @@ Experiência
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+Publicações
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

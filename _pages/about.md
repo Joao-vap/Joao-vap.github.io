@@ -58,11 +58,11 @@ Sou bolsista FAPESP de Mestrado do Programa de Pós Graduação em Matemática P
       </a>
     </div>
     <div class="column">
-      <a href="https://github.com/Joao-vap/RMT-Code">
-        <img src="/images/base/DysonBridge.png" alt="Dyson Bridges">
-      </a>
       <a href="https://github.com/Joao-vap/RMT-Code/tree/main/Tiling">
         <img src="/images/base/Tiling.png" alt="Astec Diamond">
+      </a>
+      <a href="https://github.com/Joao-vap/RMT-Code">
+        <img src="/images/base/DysonBridge.png" alt="Dyson Bridges">
       </a>
       <a href="/files/Baralhos.pdf">
         <img src="/images/base/Baralhos.png" alt="Relatório Baralhos">

@@ -60,12 +60,12 @@ Our first challenge is to identify the zig-zag regions and separate the recordin
 For the last stretch, we need a way to display each image. The idea is quite simple and based on how the images are encoded. We need to find the first big valley in our data, which is the beginning of an image line. By the end, we should encounter 512 of those lines, but generally, we can’t count on that. The cuts we made are imperfect, and we may be missing a line or two. From the first valley, we can find the next one knowing the mean distance we expect and looking for a valley around that point. All points in between will be one line of our matrix. There is something we should notice. As we’re dealing with imprecise data, we may have some lines with more points than others. That will be a problem when plotting the matrix. We can, however, compete with the lines in an arbitrary empty space, so we have a margin to wobble around. I found that 1100 points (enough for a double line) is a nice enough number to use. After this, we can plot the matrix, and we should have the image. Such images are shown (with cutted borders) below.
 
 <p style="text-align:center">
-<p float="left">
+<p>
   <img src="/images/posts/Voyager-rocket.png" width="30%" />
   <img src="/images/posts/Voyager-concha.png" width="30%" />
   <img src="/images/posts/Voyager-earth.png" width="30%" />
 </p>
-<p float="left">
+<p>
   <img src="/images/posts/Voyager-inside.png" width="30%" />
   <img src="/images/posts/Voyager-men.png" width="30%" />
   <img src="/images/posts/Voyager-text.png" width="30%" />

@@ -37,35 +37,35 @@ Sou bolsista FAPESP de Mestrado do Programa de Pós Graduação em Matemática P
   <div class="row">
     <div class="column">
       <a href="/publication/TCC">
-        <img src="/images/base/CoulombGas.png" alt="Complex Measure - Balogh et al">
+        <img src="/images/base/CoulombGas.jpeg" alt="Complex Measure - Balogh et al">
       </a>
       <a href="/publication/CLT-Intransitive-Dice">
-        <img src="/images/base/IntransitiveDice.png" alt="Intransitive Dice">
+        <img src="/images/base/IntransitiveDice.jpeg" alt="Intransitive Dice">
       </a>
       <a href="files/Occultin.pdf">
-        <img src="/images/base/Occultin.png" alt="Relatório - Occultin">
+        <img src="/images/base/Occultin.jpeg" alt="Relatório - Occultin">
       </a>
     </div>
     <div class="column">
-      <a href="/publication/TCC">
-        <img src="/images/base/CoulombGasMeasure.png" alt="Complex Measure">
+      <a href="https://github.com/Joao-vap/RMT-Code/tree/main/CoulombGas">
+        <img src="/images/base/CoulombGasSimulation.jpeg" alt="Coulomb Gas Simulation">
       </a>
       <a href="https://github.com/Joao-vap/RMT-Code">
-        <img src="/images/base/Exploration.png" alt="Interpolation of samples from Ginibre">
+        <img src="/images/base/Exploration.jpeg" alt="Interpolation of samples from Ginibre">
       </a>
       <a href="/files/ModelosRegressao.pdf">
-        <img src="/images/base/Regressao.png" alt="Modelos de Regressao">
+        <img src="/images/base/Regressao.jpeg" alt="Modelos de Regressao">
       </a>
     </div>
     <div class="column">
       <a href="https://github.com/Joao-vap/RMT-Code/tree/main/Tiling">
-        <img src="/images/base/Tiling.png" alt="Astec Diamond">
+        <img src="/images/base/Tiling.jpeg" alt="Astec Diamond">
       </a>
       <a href="https://github.com/Joao-vap/RMT-Code">
-        <img src="/images/base/DysonBridge.png" alt="Dyson Bridges">
+        <img src="/images/base/DysonBridge.jpeg" alt="Dyson Bridges">
       </a>
       <a href="/files/Baralhos.pdf">
-        <img src="/images/base/Baralhos.png" alt="Relatório Baralhos">
+        <img src="/images/base/Baralhos.jpeg" alt="Relatório Baralhos">
       </a>
     </div>
   </div>

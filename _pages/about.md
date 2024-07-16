@@ -50,7 +50,7 @@ Sou bolsista FAPESP de Mestrado do Programa de Pós Graduação em Matemática P
       <a href="https://github.com/Joao-vap/RMT-Code/tree/main/CoulombGas">
         <img src="/images/base/CoulombGasSimulation.jpeg" alt="Coulomb Gas Simulation">
       </a>
-      <a href="/posts/2024/07/VoyagerGoldenRecord/">
+      <a href="/posts/Voyager/2024/07/VoyagerGoldenRecord/">
         <img src="/images/base/Voyager.jpeg" alt="Blog on Voyager">
       </a>
       <a href="/files/ModelosRegressao.pdf">

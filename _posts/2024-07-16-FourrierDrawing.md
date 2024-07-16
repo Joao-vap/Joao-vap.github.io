@@ -171,7 +171,7 @@ From that on the program is very easy. We first take the elements on te SVG and 
  style="display: block;
  margin: auto; width: 50%;"/>
 
- The only thing remaining now is to take the time series and apply the Fourrier Transform. This is done in [Fourrier Transform](/files/posts/Fourrier/FourrierTransform.py). We won't go through the implementation of the series calculation but will use numpy to that for us better than I ever could. in this way we ge a function that render such as the GIF displayed above.
+ The only thing remaining now is to take the time series and apply the Fourrier Transform. This is done in [Fourrier Transform](/files/posts/Fourrier/FourrierTransform.py). We won't go through the implementation of the series calculation. Instead, we will use numpy to that for us better than I ever could. In this way we get a function of sines and cosines that render such as the GIF displayed above.
 
 Some Results
 ====

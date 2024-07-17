@@ -1,6 +1,6 @@
 ---
 title: 'What is the BuddhaBrot after all?'
-date: 2024-07-15
+date: 2024-07-17
 permalink: /posts/2024/07/BudahBrot/
 tags:
   - Easy

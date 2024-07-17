@@ -169,6 +169,7 @@ From that on the program is very easy. We first take the elements on te SVG and 
 <img src="/files/posts/Fourrier/JIP.gif"
  alt="Fourrier Drawing"
  style="display: block;
+ onmouseover="this.src='/files/posts/Fourrier/JIP.gif'"
  margin: auto; width: 50%;"/>
 
  The only thing remaining now is to take the time series and apply the Fourrier Transform. This is done in [Fourrier Transform](/files/posts/Fourrier/FourrierTransform.py). We won't go through the implementation of the series calculation. Instead, we will use numpy to that for us better than I ever could. In this way we get a function of sines and cosines that render such as the GIF displayed above.

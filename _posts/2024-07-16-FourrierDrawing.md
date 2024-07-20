@@ -8,7 +8,7 @@ tags:
   - Artsy
 ---
 
-My long obcession: the Fourries Series.
+My long obsession: the Fourries Series.
 
 <img src="/images/posts/Fourrier/eu.png"
  alt="Fourrier Drawing"

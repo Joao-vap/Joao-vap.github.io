@@ -8,7 +8,7 @@ tags:
   - Artsy
 ---
 
-I do not understand the BuddhaBrot, but look at it.
+The Buddhabrot is weird. I don't understand it.
 
 <p style="text-align:center">
   <img src="/images/posts/BuddhaBrot/b1.png" width="30%" />

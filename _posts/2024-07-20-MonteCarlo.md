@@ -1,6 +1,6 @@
 ---
 title: 'N-dimensional Spheres: Monte Carlo Estimation'
-date: 2024-07-19
+date: 2024-07-20
 permalink: /posts/2024/07/MonteCarlo/
 tags:
   - Medium

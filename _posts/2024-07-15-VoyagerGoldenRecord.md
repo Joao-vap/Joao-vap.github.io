@@ -1,7 +1,7 @@
 ---
 title: 'The Voyager and our Golden Record'
 date: 2024-07-15
-permalink: /posts/Voyager/2024/07/VoyagerGoldenRecord/
+permalink: /posts/2024/07/VoyagerGoldenRecord/
 tags:
   - Basics
   - Voyager

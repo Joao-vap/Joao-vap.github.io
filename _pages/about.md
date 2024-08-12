@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Bem vindos!"
+title: "Bem vindos & Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Sou bolsista FAPESP de Mestrado do Programa de Pós Graduação em Matemática Pura do Instituto de Ciências Matemáticas e de Computação (ICMC - USP) e Bacharel em Física Computacional pelo Instituto de Física de São Carlos (IFSC - USP). Premiado 'Bernhard Gross' (2022) pelo melhor desempenho acadêmico no curso. Possuo interesse em matemática, física e métodos computacionais, especialmente em suas intersecções. Realizei inciações científicas em múltiplas áreas, como: Métodos de Regressão em dados de alta dimensão (2020-2021), desenvolvimento de interface para pesquisa em ocultações estelares (2021-2022) e, mais recentemente, no estudo da Teoria de Matrizes Aleatórias e simulação de gases de coulomb (2023-2024). Realizei também estágio como desenvolvedor em uma startup de tecnologia (2022-2023) onde trabalhei com ferramentas computacionais de produção.
+I am a FAPESP Master's scholarship holder in the Mathematics Graduate Program at the Institute of Mathematical and Computer Sciences (ICMC - USP) and a Bachelor in Computational Physics from the Institute of Physics of São Carlos (IFSC - USP). Awarded 'Bernhard Gross' (2022) for the best academic performance in the course. I have an interest in mathematics, physics and computational methods, especially in their intersections. I have carried out scientific initiations in multiple areas, such as: Regression Methods in high-dimensional data (2020-2021), development of an interface for stellar occultation research (2021-2022) and, more recently, in the study of Random Matrix Theory and simulation of Coulomb gases (2023-2024). I also worked as a developer intern at a technology startup (2022-2023) where I worked with production computational tools.
 
 <div style="text-align:center">
   <style>
@@ -50,7 +50,7 @@ Sou bolsista FAPESP de Mestrado do Programa de Pós Graduação em Matemática P
       <a href="https://github.com/Joao-vap/RMT-Code/tree/main/CoulombGas">
         <img src="/images/base/CoulombGasSimulation.jpeg" alt="Coulomb Gas Simulation">
       </a>
-      <a href="/posts/Voyager/2024/07/VoyagerGoldenRecord/">
+      <a href="/posts/2024/07/VoyagerGoldenRecord/">
         <img src="/images/base/Voyager.jpeg" alt="Blog on Voyager">
       </a>
       <a href="/files/ModelosRegressao.pdf">

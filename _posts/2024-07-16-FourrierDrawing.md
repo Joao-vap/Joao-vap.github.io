@@ -166,11 +166,13 @@ Here I didn't use very complex elements, but as long as they are in the SVG form
 
 From that on the program is very easy. We first take the elements on te SVG and extract points from the construction of each of those in order. The interpretation of the elements can be done with a parser from a python library named svgpathtools. This is done in [Svg -> Path](/files/posts/Fourrier/svgPathToSeries.py).
 
-<img src="/files/posts/Fourrier/JIP.gif"
+<p style="text-align:center">
+<img src="/images/posts/Fourrier/JIPgif.png"
  alt="Fourrier Drawing"
- style="display: block;
  onmouseover="this.src='/files/posts/Fourrier/JIP.gif'"
- margin: auto; width: 50%;"/>
+ onmouseout="this.src='/images/posts/Fourrier/JIPgif.png'"
+ style="width: 50%"/>
+</p>
 
  The only thing remaining now is to take the time series and apply the Fourrier Transform. This is done in [Fourrier Transform](/files/posts/Fourrier/FourrierTransform.py). We won't go through the implementation of the series calculation. Instead, we will use numpy to that for us better than I ever could. In this way we get a function of sines and cosines that render such as the GIF displayed above.
 

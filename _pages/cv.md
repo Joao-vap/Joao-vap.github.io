@@ -9,106 +9,82 @@ redirect_from:
 
 {% include base_path %}
 
-Formação
+Education
 ======
-* M.S. em Matemática Pura, Instituto de Ciências Matemáticas e de Computação (ICMC - USP), 2024-atual
-* B.S. em Física Computacional, Instituto de Física de São Carlos (IFSC - USP), 2020-2024
+* M.S. in Mathematics, Institute of Mathematical and Computer Sciences (ICMC - USP), 2024-present
+* B.S. in Computational Physics, Institute of Physics of São Carlos (IFSC - USP), 2020-2024
 
-Experiência
+Experience
 ======
-* Iniciação Científica
+* Scientific Initiation
   * Jun 2023 - Jun 2024
-  * Estudo da teoria básica de matrizes aleatórias e de métodos computacionais associados à simulação de gases de coulomb análogos à dinâmicas de autovalores. Projeto financiado pelo processo 2023/02674-0 da FAPESP.
-  * Instituto De Ciências Matemáticas e de Computação (ICMC), Brasil.
+  * Study of the basic theory of random matrices and computational methods associated with the simulation of Coulomb gases analogous to eigenvalue dynamics. Project funded by FAPESP process 2023/02674-0.
+  * Institute of Mathematical and Computer Sciences (ICMC), Brazil.
 
-* Iniciação Científica
-  * Jan 2022 - Ago 2022
-  * Desenvolvimento do Occultation Interface (OccultIN) baseada no Stellar Occultation Reduction and Analysis (SORA), interface para redução de curvas de luz provenientes de ocultações de pequenos corpos do Sistema Solar. Financiado pelo ”Preparando para Astrofı́sica com o Programa LSST”, apoiado pela Fundação Heising-Simons e administrado pelo Observatório Las Cumbres.
-  * Laboratório Interinstitucional de e-Astronomia (LIneA), Brasil.
+* Scientific Initiation
+  * Jan 2022 - Aug 2022
+  * Development of the Occultation Interface (OccultIN) based on the Stellar Occultation Reduction and Analysis (SORA), an interface for reducing light curves from occultations of small bodies in the Solar System. Funded by the "Preparing for Astrophysics with the LSST Program", supported by the Heising-Simons Foundation and administered by the Las Cumbres Observatory.
+  * Interinstitutional e-Astronomy Laboratory (LIneA), Brazil.
 
-* Iniciação Científica
-  * Fev 2020 - Ago 2021
-  * Estudo Empırico de Modelos de Regressão para Dados de Alta Dimensão. Agraciado bolsa CNPQ.
-  * Instituto De Ciências Matemáticas e de Computação (ICMC), Brasil.
+* Scientific Initiation
+  * Feb 2020 - Aug 2021
+  * Empirical Study of Regression Models for High-Dimensional Data. Awarded CNPQ scholarship.
+  * Institute of Mathematical and Computer Sciences (ICMC), Brazil.
 
-* Estágio
-  * Ago 2021 - Jan 2022, Ago 2022 - Jan 2023
-  * Estágio como desenvolvedor full-stack de aplicações.
-  * Diletta Solutions, Brasil.
+* Internship
+  * Aug 2021 - Jan 2022, Aug 2022 - Jan 2023
+  * Internship as a full-stack application developer.
+  * Diletta Solutions, Brazil.
 
-* Docência
+* Teaching  
   * Jan 2019 - Jan 2020
-  * Professor no grupo de Apoio Escolar e Matemática Básica.
-  * Incluir Eicis, IE, Brasil.
+  * Teacher in the School Support and Basic Mathematics group.
+  * Incluir Eicis, IE, Brazil.
 
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
-Publicações
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
-Idiomas
+Languages
+======
+* Portuguese: Native
+* English: Fluent
+* Spanish: Intermediate
+* French: Intermediate
+
+Additional Training
 ======
 
-* Português: Compreende bem, Fala bem, Lê bem, Escreve bem
-* Inglês: Compreende bem, Fala bem, Lê bem, Escreve bem
-* Espanhol: Compreende razoavelmente, Fala pouco, Lê bem, Escreve pouco
-* Francês: Compreende razoavelmente, Fala razoavelmente, Lê bem, Escreve pouco
+  * Summer Research Program, University of São Paulo, USP, 2024
+  * Summer Research Program, University of São Paulo, USP, 2023
+  * Topics in Computational Physics and Applications, Brazilian Physics Society, SBF, 2022
+  * Member of the Research and Innovation group of the Junior Company of Physics of the São Carlos Institute, Jan 2021 - Jan 2022.
+  * S'cool LAB Summer CAMP, European Organization for Nuclear Research, CERN, Switzerland, 2018
 
-
-Formação Complementar
+Participation in Events
 ======
+* National Week of Scientific Initiation of SBM. Random Matrices and Simulation of Coulomb Gases. 2024. (Congress).
+* Brazilian Mathematics Colloquium. Intransitive Data. 2023. (Congress).
+* Integrated Week of Physics of São Carlos. Intransitive Data. 2023. (Symposium).
+* Integrated Week of Physics of São Carlos. SOLAR SYSTEM - A WEB INTERFACE BASED ON SORA. 2022. (Seminar).
+* National Team OBA Selections. 2019. (Olympiad).
+* MOSTRATEC. Listening and Feeling Stars: Astronomy for people with visual impairments. 2018. (Fair).
 
-  * Programa de Pesquisa de Verão, Universidade de São Paulo, USP, 2024
-  * Programa de Pesquisa de Verão, Universidade de São Paulo, USP, 2023
-  * Tópicos de Física Computacional e Aplicações, Sociedade Brasileira de Física, SBF, 2022
-  * Membro do grupo de Pesquisa Desenvolvimento e Inovação da Empresa Júnior de Fı́sica do Instituto de São Carlos, Jan 2021 - Jan 2022.
-  * S'cool LAB Summer CAMP, European Organization for Nuclear Research, CERN, Suiça, 2018
-  
-Participação em Eventos
+Honors and Awards
 ======
-
-* Semana Nacional de Iniciação Científica da SBM. Matrizes Aleatórias e Simulação de Gases de Coulomb. 2024. (Congresso).
-* Colóquio Brasileiro de Matemática. Dados Intransitivos. 2023. (Congresso).
-* Semana Integrada da Física de São Carlos. Dados Intransitivos. 2023. (Simpósio).
-* Semana Integrada da Física de São Carlos. SOLAR SYSTEM - A WEB INTERFACE BASED ON SORA. 2022. (Seminário).
-* Seletivas Presenciais da Equipe Nacional OBA. 2019. (Olimpíada).
-* MOSTRATEC. Ouvir e Sentir Estrelas: Astronomia pra pessoas com deficiência visual. 2018. (Feira).
-
-Honras e Prêmios
-======
-
   * Silver Honour, International Astronomy and Astrophysics Competition - IAAC, 2022
-  * Prêmio Bernhard Gross, IFSC - USP, 2022
-  * Medalha de Prata, Olimpíadas Brasileira de Astronomia e Astronáutica, 2018
-  * Medalha de Prata, Olimpíadas Brasileira de Matemática das Escolas Públicas, 2018
-  * Medalha de Bronze, Olimpíadas Mineira de Matemática, 2017
-  * Medalha de Ouro, Olimpíadas Brasileira de Astronomia e Astronáutica, 2017
-  * Menção Honrosa, Olimpíadas Brasileira de Matemática das Escolas Públicas, 2017
-  * Medalha de Bronze, Olimpíadas Mineira de Matemática, 2016
-  * Medalha de Bronze, Olimpíadas Brasileira de Informática, 2016
-  * Medalha de Prata, Olimpíadas Brasileira de Matemática das Escolas Públicas, 2015
-  * Medalha de Prata, Olimpíadas Mineira de Matemática, 2013
-  * Medalha de Prata, Olimpíadas Brasileira de Matemática das Escolas Públicas, 2013
-  * Medalha de Prata, Olimpíadas Mineira de Matemática, 2012
+  * Bernhard Gross Award, IFSC - USP, 2022
+  * Silver Medal, Brazilian Astronomy and Astronautics Olympiad, 2018
+  * Silver Medal, Brazilian Mathematics Olympiad of Public Schools, 2018
+  * Bronze Medal, Minas Gerais Mathematics Olympiad, 2017
+  * Gold Medal, Brazilian Astronomy and Astronautics Olympiad, 2017
+  * Honorable Mention, Brazilian Mathematics Olympiad of Public Schools, 2017
+  * Bronze Medal, Minas Gerais Mathematics Olympiad, 2016
+  * Bronze Medal, Brazilian Informatics Olympiad, 2016
+  * Silver Medal, Brazilian Mathematics Olympiad of Public Schools, 2015
+  * Silver Medal, Minas Gerais Mathematics Olympiad, 2013
+  * Silver Medal, Brazilian Mathematics Olympiad of Public Schools, 2013
+  * Silver Medal, Minas Gerais Mathematics Olympiad, 2012
+

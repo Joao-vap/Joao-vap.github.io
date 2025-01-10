@@ -65,9 +65,10 @@ Additional Training
 
 Participation in Events
 ======
+* "Introduction to Random Permutations". Centre de Matématiques Henri Lebesgue. Angers, France. 2024. (Masterclass)
 * National Week of Scientific Initiation of SBM. Random Matrices and Simulation of Coulomb Gases. 2024. (Congress).
-* Brazilian Mathematics Colloquium. Intransitive Data. 2023. (Congress).
-* Integrated Week of Physics of São Carlos. Intransitive Data. 2023. (Symposium).
+* Brazilian Mathematics Colloquium. Intransitive Dices. 2023. (Congress).
+* Integrated Week of Physics of São Carlos. Intransitive Dices. 2023. (Symposium).
 * Integrated Week of Physics of São Carlos. SOLAR SYSTEM - A WEB INTERFACE BASED ON SORA. 2022. (Seminar).
 * National Team OBA Selections. 2019. (Olympiad).
 * MOSTRATEC. Listening and Feeling Stars: Astronomy for people with visual impairments. 2018. (Fair).

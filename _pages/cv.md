@@ -79,6 +79,7 @@ Honors and Awards
   * Bernhard Gross Award, IFSC - USP, 2022
   * Silver Medal, Brazilian Astronomy and Astronautics Olympiad, 2018
   * Silver Medal, Brazilian Mathematics Olympiad of Public Schools, 2018
+  * ABRIC Award of Highligh in Scientific Initiation, 2018
   * Bronze Medal, Minas Gerais Mathematics Olympiad, 2017
   * Gold Medal, Brazilian Astronomy and Astronautics Olympiad, 2017
   * Honorable Mention, Brazilian Mathematics Olympiad of Public Schools, 2017

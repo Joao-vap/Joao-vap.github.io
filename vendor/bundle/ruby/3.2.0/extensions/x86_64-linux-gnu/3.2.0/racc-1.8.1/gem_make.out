@@ -1,0 +1,18 @@
+current directory: /home/jvap/Documents/Joao-vap.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/jvap/Documents/Joao-vap.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250804-10351-fdge6d sitelibdir\=./.gem.20250804-10351-fdge6d clean
+
+current directory: /home/jvap/Documents/Joao-vap.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250804-10351-fdge6d sitelibdir\=./.gem.20250804-10351-fdge6d
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/jvap/Documents/Joao-vap.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250804-10351-fdge6d sitelibdir\=./.gem.20250804-10351-fdge6d install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250804-10351-fdge6d/racc
+
+current directory: /home/jvap/Documents/Joao-vap.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250804-10351-fdge6d sitelibdir\=./.gem.20250804-10351-fdge6d clean

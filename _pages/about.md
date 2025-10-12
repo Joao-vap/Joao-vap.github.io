@@ -64,7 +64,7 @@ I am a FAPESP Master's scholarship holder in the Mathematics Graduate Program (M
       <a href="https://github.com/Joao-vap/RMT-Code">
         <img src="/images/base/DysonBridge.jpeg" alt="Dyson Bridges">
       </a>
-      <a href="/files/Baralhos.pdf">
+      <a href="/publication/SSSSRWWDC">
         <img src="/images/base/Baralhos.jpeg" alt="Relatório Baralhos">
       </a>
     </div>

@@ -7,7 +7,20 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+<div style="border-radius: 10px;padding = 20px; text-align: center; background-color:rgba(80, 10, 150, 0.2);">
+ The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry.
+<br>
+- BERTRAND RUSSELL, Study of Mathematics
+</div>
+
+<br>
+
+<div style="text-align:justify">
+<p>
 I am a FAPESP Master's scholarship holder in the Mathematics Graduate Program (My masters project is on "Asymptotics of Partition Functions of Coulomb Gases".) at the Institute of Mathematical and Computer Sciences (ICMC - USP) and a Bachelor in Computational Physics from the Institute of Physics of São Carlos (IFSC - USP). Awarded 'Bernhard Gross' (2022) for the best academic performance in the course. I have an interest in mathematics, physics and computational methods, especially in their intersections. I have carried out scientific initiations in multiple areas, such as: Regression Methods in high-dimensional data (2020-2021), development of an interface for stellar occultation research (2021-2022) and, more recently, in the study of Random Matrix Theory and simulation of Coulomb gases (2023-2024). I also worked as a developer intern at a technology startup (2022-2023) where I worked with production computational tools.
+</p>
+</div>
 
 <div style="text-align:center">
   <style>

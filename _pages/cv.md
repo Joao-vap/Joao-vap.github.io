@@ -65,6 +65,7 @@ Additional Training
 
 Participation in Events
 ======
+* XVII CLAPEM - Latin American Congress of Probability and Mathematical Statistics. Montevideo, Uruguay. 2026. (Congress)
 * "Introduction to Random Permutations". Centre de Matématiques Henri Lebesgue. Angers, France. 2024. (Masterclass)
 * National Week of Scientific Initiation of SBM. Random Matrices and Simulation of Coulomb Gases. 2024. (Congress).
 * Brazilian Mathematics Colloquium. Intransitive Dices. 2023. (Congress).

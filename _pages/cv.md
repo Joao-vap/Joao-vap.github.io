@@ -53,6 +53,7 @@ Languages
 * English: Fluent
 * Spanish: Intermediate
 * French: Intermediate
+* Esperanto: Basic 
 
 Additional Training
 ======

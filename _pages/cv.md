@@ -16,6 +16,16 @@ Education
 
 Experience
 ======
+* Masters
+  * Ago 2024 - Present
+  * Study of asymptotic method in Mathematics, specially in Random Matrix Theory. We focus on techniques recently develop on two dimensional Coulomb Gases: a class of complex ensembles in RMT. Project founded by FAPESP process 2024/06997-1.
+  * Institute of Mathematical and Computer Sciences (ICMC), Brazil.
+
+* Extension: [SigmaCamp](https://sigmacamp.org/)
+  * Recorrent
+  * Couselor, Teaching Assistant amongs other functions at an international scientific camp for young students in the United States of America and Brazil.
+  * SigmaCamp
+
 * Scientific Initiation
   * Jun 2023 - Jun 2024
   * Study of the basic theory of random matrices and computational methods associated with the simulation of Coulomb gases analogous to eigenvalue dynamics. Project funded by FAPESP process 2023/02674-0.
@@ -57,12 +67,13 @@ Languages
 
 Additional Training
 ======
-
-  * Summer Research Program, University of São Paulo, USP, 2024
-  * Summer Research Program, University of São Paulo, USP, 2023
-  * Topics in Computational Physics and Applications, Brazilian Physics Society, SBF, 2022
+  * Extension: Staff at SigmaFestival, Macéio, 2026.
+  * Extension: Couselor and TA at ETAPA SigmaCamp, Valinhos, 2026.
+  * Summer Research Program, University of São Paulo, USP, 2024.
+  * Summer Research Program, University of São Paulo, USP, 2023.
+  * Topics in Computational Physics and Applications, Brazilian Physics Society, SBF, 2022.
   * Member of the Research and Innovation group of the Junior Company of Physics of the São Carlos Institute, Jan 2021 - Jan 2022.
-  * S'cool LAB Summer CAMP, European Organization for Nuclear Research, CERN, Switzerland, 2018
+  * S'cool LAB Summer CAMP, European Organization for Nuclear Research, CERN, Switzerland, 2018.
 
 Participation in Events
 ======

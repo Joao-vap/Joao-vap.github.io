@@ -78,6 +78,7 @@ Additional Training
 Participation in Events
 ======
 * XVII CLAPEM - Latin American Congress of Probability and Mathematical Statistics. Montevideo, Uruguay. 2026. (Congress)
+* XV Workshop de Teses e Dissertações em Matemática. Institute of Mathematical and Computer Sciences (ICMC - USP). São Carlos, Brazil. 2025. (Workshop)
 * "Introduction to Random Permutations". Centre de Matématiques Henri Lebesgue. Angers, France. 2024. (Masterclass)
 * National Week of Scientific Initiation of SBM. Random Matrices and Simulation of Coulomb Gases. 2024. (Congress).
 * Brazilian Mathematics Colloquium. Intransitive Dices. 2023. (Congress).

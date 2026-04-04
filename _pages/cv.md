@@ -17,7 +17,7 @@ Education
 Experience
 ======
 * Masters
-  * Ago 2024 - Present
+  * Aug 2024 - Present
   * Study of asymptotic method in Mathematics, specially in Random Matrix Theory. We focus on techniques recently develop on two dimensional Coulomb Gases: a class of complex ensembles in RMT. Project founded by FAPESP process 2024/06997-1.
   * Institute of Mathematical and Computer Sciences (ICMC), Brazil.
 

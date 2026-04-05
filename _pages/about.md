@@ -9,9 +9,14 @@ redirect_from:
 
 <br>
 <div style="border-radius: 10px;padding = 20px; text-align: center; background-color:rgba(80, 10, 150, 0.2);">
- The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry.
+ "En remontant chez moi pour y passer la soirée à travailler de mon mieux, \
+ je me disais que le monde n'est pas construit pour l'équilibre.\
+ Le monde est désordre. \
+ L'équilibre n'est pas la règle, c'est l'exception.\
+ Et je faisais le serment de travailler pour l'ordre et l’équilibre. \
+ Que de serments! Tu vas sourire." \
 <br>
-- BERTRAND RUSSELL, Study of Mathematics
+ G.Duhamel; Maitres, 1937.
 </div>
 
 <br>

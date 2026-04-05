@@ -9,12 +9,12 @@ redirect_from:
 
 <br>
 <div style="border-radius: 10px;padding = 20px; text-align: center; background-color:rgba(80, 10, 150, 0.2);">
- "En remontant chez moi pour y passer la soirée à travailler de mon mieux, \
- je me disais que le monde n'est pas construit pour l'équilibre.\
- Le monde est désordre. \
- L'équilibre n'est pas la règle, c'est l'exception.\
- Et je faisais le serment de travailler pour l'ordre et l’équilibre. \
- Que de serments! Tu vas sourire." \
+ "En remontant chez moi pour y passer la soirée à travailler de mon mieux, <br>
+ je me disais que le monde n'est pas construit pour l'équilibre. <br>
+ Le monde est désordre. <br>
+ L'équilibre n'est pas la règle, c'est l'exception.<br>
+ Et je faisais le serment de travailler pour l'ordre et l’équilibre. <br>
+ Que de serments! Tu vas sourire."
 <br>
  G.Duhamel; Maitres, 1937.
 </div>

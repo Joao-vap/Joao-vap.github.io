@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bem vindos & Welcome!"
+title: "Bem vindos, Welcome, Bienvenue, Bienvenidos & Bonvenon!"
 author_profile: true
 redirect_from: 
   - /about/

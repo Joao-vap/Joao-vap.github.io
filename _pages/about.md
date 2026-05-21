@@ -54,7 +54,7 @@ I am a FAPESP Master's scholarship holder in the Mathematics Graduate Program (M
   <!-- make images as links -->
   <div class="row">
     <div class="column">
-      <a href="/publication/TCC">
+      <a href="/posts/2025/05/IntroRMT/">
         <img src="/images/base/CoulombGas.jpeg" alt="Complex Measure - Balogh et al">
       </a>
       <a href="/publication/CLT-Intransitive-Dice">
@@ -65,7 +65,7 @@ I am a FAPESP Master's scholarship holder in the Mathematics Graduate Program (M
       </a>
     </div>
     <div class="column">
-      <a href="https://github.com/Joao-vap/RMT-Code/tree/main/CoulombGas">
+      <a href="/publication/TCC">
         <img src="/images/base/CoulombGasSimulation.jpeg" alt="Coulomb Gas Simulation">
       </a>
       <a href="/posts/2024/07/VoyagerGoldenRecord/">
